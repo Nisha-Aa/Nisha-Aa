@@ -1,12 +1,39 @@
-- 👋 Hi, I’m @Nisha-Aa
-- 👀 I’m interested in learning python and SQL.
-- 🌱 I’m currently learning SQL
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hi there 👋, I'm Nisha
 
-<!---
-Nisha-Aa/Nisha-Aa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 **Data Engineer** | ☁️ Azure Enthusiast | 📊 Data Analytics & Visualization  
+
+---
+
+### 🚀 About Me
+- 🔹 Skilled in building and managing data pipelines on **Azure**  
+- 🔹 Experienced with **Python, SQL, and PySpark** for data engineering  
+- 🔹 Passionate about **data analysis, visualization, and cloud technologies**  
+- 📫 Reach me at: **nishapwr321@gmail.com**  
+
+---
+
+### 🛠️ Skills & Tools
+- **Cloud:** Azure  
+- **Programming:** Python, SQL  
+- **Libraries:**  
+  - 🟦 NumPy → Data Analysis  
+  - 🟨 Pandas → Data Manipulation  
+  - 📊 Matplotlib → Visualization  
+  - 🎨 Seaborn → Advanced Visualization  
+- **Big Data:** PySpark  
+
+---
+
+### 🌱 Currently Exploring
+- Advanced **Azure Data Services**  
+- **Big Data processing** with Spark  
+- Best practices in **data modeling & ETL pipelines**  
+
+---
+
+### 📈 GitHub Stats
+![Nisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
+
+---
+
+✨ _"Turning data into powerful insights with cloud and code."_  
